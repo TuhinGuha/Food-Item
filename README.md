@@ -1,4 +1,4 @@
-# Food Item
+# Food Items
 
 ## Description
 Food Item is an Android app developed using Kotlin and Jetpack Compose. It allows users to browse food items fetched from TheMealDB API and view them in a grid layout.
